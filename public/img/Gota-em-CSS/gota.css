@@ -1,0 +1,35 @@
+.gota {
+
+    margin: 70px;
+    display: flex;
+    background-color: #ff4f4f;
+
+    width:100px;
+    height: 100px;
+
+    border-radius: 50%;
+    border-top-right-radius: 0;
+
+    transform: rotate(-45deg);
+
+    position: relative;
+}
+
+
+/* PARTE BRANCA DA GOTA */
+.gota::before {
+
+    margin: 35px 60px;
+
+    position: absolute; /* usar isso para que o justify-content funcione e o fundo fique atras das letras */
+    content: "";
+    background-color: #ffffffee;
+
+    width:30px;
+    height: 30px;
+
+    border-radius: 50%;
+    border-top-right-radius: 0;
+
+    
+}
