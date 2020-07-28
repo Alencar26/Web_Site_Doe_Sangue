@@ -5,14 +5,14 @@
 <div align="center">
 <img src="./github/gif-1.gif" align="center" style="width: 1280px">
 <img stryle="size: " src="./github/Doe-1.png" align="center">
-<img src="./github/Doe-2.png" align="center" style="width: 50px">
+<img src="./github/Doe-2.png" align="center">
 </div>
 <hr>
 
 <br><br>
 
 <div align="center">
-<img src="./github/npm-v.png" style="width: 110px">
+<img src="./github/npm-v.png" width= "110px">
 <img src="./github/node2.png" style="width: 140px">
 
 <img src="./github/nunjucks.png" style="width: 140px">
