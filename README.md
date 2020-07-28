@@ -13,12 +13,12 @@
 
 <div align="center">
 <img src="./github/npm-v.png" width= "110px">
-<img src="./github/node2.png" style="width: 140px">
+<img src="./github/node2.png" width="140px">
 
-<img src="./github/nunjucks.png" style="width: 140px">
-<img src="./github/postgresql.png" style="width: 162px">
-<img src="./github/maratonaDev.png" style="width: 180px">
-<img src="https://img.shields.io/npm/l/express" style="width: 98.5px"/>
+<img src="./github/nunjucks.png" width= "140px">
+<img src="./github/postgresql.png" width= "162px">
+<img src="./github/maratonaDev.png" width= "180px">
+<img src="https://img.shields.io/npm/l/express" width= "98.5px"/>
 
 </div>
 
@@ -43,7 +43,7 @@
 <br><hr>
 
 ## 💻 Instalação
-<img src="./github/maratonaDevR.png" style="width: 250px">
+<img src="./github/maratonaDevR.png" width= "250px">
 
 É necessário ter instalado em seu computador o **Node.js** e o **PostgreSQL** (Caso não tenha algum deles você pode efetuar o download nos links acima.)
 
