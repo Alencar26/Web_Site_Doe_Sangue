@@ -1,6 +1,5 @@
-<div>
-<h1> D </h1><img src="./github/gota.png" width=""/><h1>E❤ - Doe Sangue </h1>
-<div>
+# DOE❤ - Doe Sangue
+
 > Aplicação Web destinada ao cadastro de pessoas interessadas em doar sangue.
 <br>
 
