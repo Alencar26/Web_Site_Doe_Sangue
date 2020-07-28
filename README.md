@@ -5,7 +5,7 @@
 <div align="center">
 <img src="./github/gif-1.gif" align="center" style="width: 1280px">
 <img stryle="size: " src="./github/Doe-1.png" align="center">
-<img src="./github/Doe-2.png" align="center">
+<img src="./github/Doe-2.png" align="center" style="width: 50px">
 </div>
 <hr>
 
